@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Ookla Speedtest Gauge Arc -->
+    <path
+        android:fillColor="#00F2FE"
+        android:pathData="M 10.56,37.44 A 19.00,19.00 0 1 1 37.44,37.44 L 33.55,33.55 A 13.50,13.50 0 1 0 14.45,33.55 Z" />
+    <!-- Ookla Speedtest Needle -->
+    <path
+        android:fillColor="#00F2FE"
+        android:pathData="M 19.06,23.74 L 31.61,15.26 L 33.48,17.35 L 23.74,28.94 Z" />
+</vector>

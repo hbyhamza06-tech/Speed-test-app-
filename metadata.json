@@ -1,0 +1,6 @@
+{
+  "name": "Speedo Net",
+  "description": "A fast, accurate, privacy-focused network speed test application measuring download, upload, ping, jitter, packet loss, and connection quality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
